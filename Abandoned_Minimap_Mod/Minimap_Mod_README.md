@@ -39,7 +39,7 @@ A normal, unexplored room that has been discovered but has no special properties
 
 ## Known Issues
 
-- The minimap guesses the closest room for health pickup locations but can be wrong.
+- The minimap guesses the closest room for health pickup & player locations but can be wrong.
 - Connections between rooms are guesses and will be wrong. (random lines to rooms that aren't connected)
 - (Visual bug) Sometimes you might need to revisit a white room for a few seconds and leave again if it didn't update to blue when you left.
 
