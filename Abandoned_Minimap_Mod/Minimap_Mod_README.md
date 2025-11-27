@@ -6,7 +6,7 @@ This mod adds a real-time minimap to the Abandoned Archive game, displaying the 
 
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/322078d9-776d-42b7-88ee-0e285c11e0ec" />
+<img width="1920" height="1080" alt="Minimap Screenshot" src="https://github.com/user-attachments/assets/322078d9-776d-42b7-88ee-0e285c11e0ec" />
 
 ## Features
 
