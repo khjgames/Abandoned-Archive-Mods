@@ -12,7 +12,7 @@ This mod adds a real-time minimap to Abandoned Archive, displaying the dungeon l
 
 - **Real-time minimap** showing dungeon layout and colored room details
 - **Fog of war** - rooms are hidden until discovered by entering them or adjacent rooms
-- **Toggle visibility** - show/hide the minimap at any time
+- **Toggle visibility** - show/hide the minimap at any time (Tab or M)
 
 ## How to Use
 
