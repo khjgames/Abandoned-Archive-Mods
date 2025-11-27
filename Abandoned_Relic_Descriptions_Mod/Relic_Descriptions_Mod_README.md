@@ -6,7 +6,7 @@ Adds additional details to relic tooltips to clarify their stat effects and mech
 
 ## Screenshot
 
-<img width="319" height="223" alt="image" src="https://github.com/user-attachments/assets/c71a99b2-6325-4558-a8a8-3e7a314db78c" />
+<img width="319" height="223" alt="image" src="https://github.com/user-attachments/assets/c71a99b2-6325-4558-a8a8-3e7a314db78c" /> <img width="339" height="206" alt="image" src="https://github.com/user-attachments/assets/6f51f399-0807-4227-a565-3502250cb8ed" />
 
 ## Features
 
