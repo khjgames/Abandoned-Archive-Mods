@@ -37,9 +37,6 @@ A room you have visited and cleared. A room is marked as cleared if you spent 3+
 ### ⚪ White - Normal Room
 A normal, unexplored room that has been discovered but has no special properties.
 
-## Fog of War
-- Adjacent rooms are made visible.
-
 ## Known Issues
 
 - The minimap guesses the closest room for health pickup locations but can be wrong.
