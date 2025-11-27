@@ -3,7 +3,6 @@
 ## Tested BepInEx Version
 
 **BepInEx Version:** `6.0.0-be.738` (bleeding-edge build)  
-**Build Commit:** `af0cba71fb69324aa4dfd651422bfa020309ce15`  
 **Unity Version:** `2021.3.45f2`  
 **Runtime:** Mono (CLR 4.0.30319.42000)  
 **Platform:** Windows x64
