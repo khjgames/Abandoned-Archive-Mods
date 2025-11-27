@@ -4,6 +4,10 @@
 
 This mod adds a real-time minimap to the Abandoned Archive game, displaying the dungeon layout, room connections, and important room information. The minimap updates dynamically as you explore, showing your current location, discovered rooms, and available pickups.
 
+## Screenshot
+
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/322078d9-776d-42b7-88ee-0e285c11e0ec" />
+
 ## Features
 
 - **Real-time minimap** showing dungeon layout and colored room details
@@ -56,3 +60,4 @@ A normal, unexplored room that has been discovered but has no special properties
 - The minimap won't appear on the main menu (there's no map... why would it?)
 - There are no keybind settings for the minimap - WHY NOY? (I'm lazy)
 - No one will read this and know that I stole the minimap idea from kokonuts 
+
