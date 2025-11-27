@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod adds a real-time minimap to the Abandoned Archive game, displaying the dungeon layout, room connections, and important room information. The minimap updates dynamically as you explore, showing your current location, discovered rooms, and available pickups.
+This mod adds a real-time minimap to Abandoned Archive, displaying the dungeon layout, room connections, and important room information. Its a little inaccurate. The minimap updates dynamically as you explore, showing your current location, discovered rooms, and available pickups.
 
 ## Screenshot
 
