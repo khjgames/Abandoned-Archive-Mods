@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod adds a real-time minimap to Abandoned Archive, displaying the dungeon layout, room connections, health pickups and relic shelves. Its a little inaccurate. The minimap updates dynamically as you explore, showing your current location & discovered rooms.
+This mod adds a real-time minimap to Abandoned Archive, displaying the dungeon layout, room connections, health pickups and relic shelves. Its a little inaccurate. The minimap updates as you explore, showing your current location & discovered rooms.
 
 ## Screenshot
 
