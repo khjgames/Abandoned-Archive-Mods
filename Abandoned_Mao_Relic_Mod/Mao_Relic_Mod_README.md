@@ -6,7 +6,8 @@ Adds a custom relic called "Mao Companion" to Abandoned Archive. With this relic
 
 ## Screenshot
 
-<img width="1920" height="1080" alt="Mao Relic Screenshot" src="https://github.com/user-attachments/assets/322078d9-776d-42b7-88ee-0e285c11e0ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43db486c-2eb8-41de-aeaf-3d5ca0572b3b"/>
+
 
 ### Obtaining the Relic
 
